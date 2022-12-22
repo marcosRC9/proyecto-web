@@ -1,1 +1,2 @@
 este el archivo B
+modificando el archivo B version 1
